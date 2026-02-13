@@ -1,6 +1,21 @@
 import java.util.Scanner;
 
 public class Main
+    // class PartyAffilliation
+        // main()
+            //String menuChoice = ""
+            // output "What is your party affiliation D - Democrat\tR - Republican\tI - Independent\t - Other?";
+            // input menuChoice
+            //if menuChoice == "D" then
+                // output "You get a Donkey!"
+            //else if menuChoice == "R" then
+                // output "You get an Elephant!"
+            //else if menuChoice == "I" then
+                // output "You get a Person!"
+            //else
+                // output "You get a Other!"
+        // return
+    //endClass
 {
     public static void main(String[] args)
     {
